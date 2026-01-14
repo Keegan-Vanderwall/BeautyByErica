@@ -64,6 +64,7 @@ body {
   letter-spacing: 3px;
   color: #666;
   font-weight: 400;
+  margin-bottom: 10px;
 }
 
 .social-icons {
@@ -789,7 +790,11 @@ body {
 
   .contact-section {
     align-items: center;
-    margin-left: 0;
+  }
+
+  .logo {
+    position: static;
+    transform: none;
   }
 
   .logo h1 {
