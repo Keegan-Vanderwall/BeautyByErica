@@ -495,12 +495,12 @@ body {
   letter-spacing: 1px;
 }
 
-.gallery-cta {
+.gallery-cta, .about-cta {
   text-align: center;
   margin-top: 60px;
 }
 
-.gallery-cta h2 {
+.gallery-cta h2, .about-cta h2 {
   font-size: 2rem;
   font-weight: 400;
   letter-spacing: 2px;
