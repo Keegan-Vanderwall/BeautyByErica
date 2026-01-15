@@ -460,7 +460,6 @@ body {
   position: relative;
   overflow: hidden;
   aspect-ratio: 1;
-  cursor: pointer;
 }
 
 .gallery-item-full img {
